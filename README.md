@@ -1,8 +1,10 @@
 # MAGD-150 Assignment
 ### Austin Messerschmidt
-## Readme File
 
+## Readme File
 Enclosed in this repository are examples of code for MAGD 150 at UW-W
+
+
 
 ## Example 1
 
